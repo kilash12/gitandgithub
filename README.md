@@ -1,2 +1,2 @@
 # gitandgithub
-learns git and github
+learns git and github.
